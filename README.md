@@ -1,2 +1,2 @@
-# thisbit.github.io
-GIthub Homepage
+# thisbit
+## github home
